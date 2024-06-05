@@ -48,7 +48,7 @@ public class Main {
 
         System.out.println("Задание 5");
 
-        int monthNumber = 10;
+        int monthNumber = 11;
         switch (monthNumber){
             case 1, 2, 12:
                 System.out.println("Этот месяц принадлежит к сезону зима");
